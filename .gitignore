@@ -1,0 +1,12 @@
+*.pth
+*.pth.tar
+ray_results/
+results/
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.slurm
+*~
+data/datasets/
+experiments/base_model/
